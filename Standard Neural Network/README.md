@@ -1,6 +1,6 @@
-#Standard Neural Network
+# Standard Neural Network
 
-##Training Dataset
+## Training Dataset
 
 | X1  | X2  | X2  | y   |
 | --- | --- | --- | --- |
